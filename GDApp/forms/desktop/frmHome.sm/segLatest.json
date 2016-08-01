@@ -1,0 +1,195 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_bounces_": true,
+    "_data_": [
+        {
+            "imgAva": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ava_stephan.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$599.00"
+            },
+            "lblCategory": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Category goes here..."
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date goes here..."
+            },
+            "lblPerson": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name goes here..."
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Purchase item goes here..."
+            }
+        },
+        {
+            "imgAva": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ava_umang.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$80.00"
+            },
+            "lblCategory": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Category goes here..."
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date goes here..."
+            },
+            "lblPerson": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name goes here..."
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Purchase item goes here..."
+            }
+        },
+        {
+            "imgAva": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ava_alex.png"
+            },
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$80.00"
+            },
+            "lblCategory": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Category goes here..."
+            },
+            "lblDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Date goes here..."
+            },
+            "lblPerson": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name goes here..."
+            },
+            "lblTitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Purchase item goes here..."
+            }
+        }
+    ],
+    "_enabled_": false,
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_rowtemplateid": "CopyFBox00389c5e3b4ea4e",
+    "_top_": {
+        "type": "string",
+        "value": "78dp"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmHome",
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": false
+    },
+    "counter": "02",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "8bfe953f4b3240c3ad809735769761bf",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segLatest",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "db97d483082c40e185023f3d33c464b1",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": false,
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxMain",
+    "pf": "frmHome",
+    "retainselection": false,
+    "rowTemplateId": "8bfe953f4b3240c3ad809735769761bf",
+    "rowcounter": 2,
+    "rowfocusskin": "sb28899d1083454189799d5410adac82",
+    "rowskin": "s4e398ee26c047fdb9c1a557ccf51893",
+    "rowtemplate": "FBox0430efa7eafe341",
+    "seccounter": 0,
+    "sectionheaderskin": "s036ab9071dd42c797dff33ed0b02bcf",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "selectionindicator": "imgAva",
+    "separatorcolor": "d6d6d664",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": true,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 640,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxImage": "flxImage",
+        "imgAva": "imgAva",
+        "lblAmount": "lblAmount",
+        "lblCategory": "lblCategory",
+        "lblDate": "lblDate",
+        "lblPerson": "lblPerson",
+        "lblTitle": "lblTitle"
+    },
+    "zindex": 10
+}

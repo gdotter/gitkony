@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sd1355685fe44428bf56f3938e8cb576",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": false,
+    "focusskin": "sd222b3cbf4c4c6dbb0bd2a5c1b7c45d",
+    "id": "btnSideMenu",
+    "ide_onClick": "AS_Button_a1d1a22873984d9cbbdaddf0944ab3d4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d11b68b0ba4b401abc9f3e04e90be720",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_2d39c8082f9f446da9d0ec525c5592f9",
+    "parent": "flxHeader029d93e78987b4d",
+    "pf": "frmDetails",
+    "spaan": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Button",
+    "widgetalignment": 5,
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

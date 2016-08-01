@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        36,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s84cfa94f3ce425791a8ded812013e08",
+    "_text_": "Dashboard",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "padding": [
+            20,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s84cfa94f3ce425791a8ded812013e08",
+    "id": "btnDashboard0b1c6874995a248",
+    "info": null,
+    "isvisible": true,
+    "kuid": "82214f53b3f645ebbed17c8d7d21df69",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxScrollSideMenu0a3c8752ee4df4c",
+    "pf": "masterMenu",
+    "wType": "Button",
+    "widgetalignment": 5,
+    "zindex": 2
+}

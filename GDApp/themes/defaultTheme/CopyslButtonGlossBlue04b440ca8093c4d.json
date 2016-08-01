@@ -1,0 +1,17 @@
+{
+  "background_color": "92cc61ff",
+  "bg_type": "one",
+  "border_color": "ffffff00",
+  "border_radius": 3,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 120,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s41de03e5a5348e7ab6db12b0ce50077",
+  "wType": "Button"
+}

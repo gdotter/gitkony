@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_right_": {
+        "type": "number",
+        "value": "15"
+    },
+    "_skin_": "s0b6b4f25da34eac825009155d7a15f4",
+    "_text_": "09823-17237492-AW",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblExpenseCatNum0cbfc6cc957734b",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "2ceed20769cc46df8ccda25a70979d01",
+    "name": "kony.ui.Label",
+    "parent": "flxExpenseLine05295b410075944",
+    "pf": "frmDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "widgetalignment": 5
+}

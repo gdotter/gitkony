@@ -1,0 +1,16 @@
+{
+  "background_image": "back_focus.png",
+  "bg_type": "image",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 146,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sd222b3cbf4c4c6dbb0bd2a5c1b7c45d",
+  "wType": "Button"
+}

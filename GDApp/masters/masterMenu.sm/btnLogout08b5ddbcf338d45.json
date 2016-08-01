@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        36,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s5f857b77b2642ffa23f22e11fa86e5d",
+    "_text_": "Logout",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "padding": [
+            20,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s14a497415f84a15a51147ea03923119",
+    "id": "btnLogout08b5ddbcf338d45",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3b123d21d5284f9386ab8696e48c8306",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxScrollSideMenu0a3c8752ee4df4c",
+    "pf": "masterMenu",
+    "wType": "Button",
+    "widgetalignment": 5,
+    "zindex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "background_image": "side_archive.png",
+  "bg_type": "image",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 120,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sef5dc4b7c324ccd8403876e65fc3896",
+  "wType": "Button"
+}

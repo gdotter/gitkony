@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        36,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sd402f6c9029408c99b9680d7214140f",
+    "_text_": "Settings",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "padding": [
+            20,
+            0,
+            0,
+            0
+        ],
+        "paddingInPixel": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "sb4d97291fd04f6faebd3980a1f4e852",
+    "id": "btnSettings0e21e18fd2f3e4a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "df88a2c192fa44ab8e2a3fd89caaf1b8",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "flxScrollSideMenu014742777c90241",
+    "pf": "frmHome",
+    "wType": "Button",
+    "widgetalignment": 5,
+    "zindex": 2
+}

@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": false,
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sa3fd2ef615246dd9a7e1132b3f2393d",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": false,
+    "focusskin": "s94219fbf4e84cb1812039c188c098fb",
+    "id": "btnSideMenu",
+    "ide_onClick": "AS_Button_7cba031767a74bc8b7ad1f4fdfa54fa1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fd6963723a3b4236a6fb364b09bb3855",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_f3cc49bb55cf46b7b0a1136c55b0bf50",
+    "parent": "flxHeader0224eabd79fb348",
+    "pf": "frmHome",
+    "wType": "Button",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,16 @@
+{
+  "background_image": "sidemenu_icon_inactive.png",
+  "bg_type": "image",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 146,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sa3fd2ef615246dd9a7e1132b3f2393d",
+  "wType": "Button"
+}

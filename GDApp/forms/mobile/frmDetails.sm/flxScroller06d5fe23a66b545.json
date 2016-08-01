@@ -1,0 +1,85 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "60"
+    },
+    "_decelerating_": false,
+    "_dragging_": false,
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "s6e00088118846648d4aeceaef3749aa",
+    "_top_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_tracking_": false,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flxDetailUser0bf675199a11045",
+        "flxExpenseLine05295b410075944",
+        "flxWhite0ac1bd524163148"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "contentoffset": {
+        "x": "0dp",
+        "y": "0dp"
+    },
+    "contentoffsetx": "0dp",
+    "contentoffsety": "0dp",
+    "contentsize": {
+        "height": "700dp",
+        "width": "100%"
+    },
+    "contentsizeheight": "700dp",
+    "contentsizewidth": "100%",
+    "decelerat": false,
+    "dragg": false,
+    "enabled": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": false,
+    "id": "flxScroller06d5fe23a66b545",
+    "info": null,
+    "isvisible": true,
+    "kuid": "07fb14eda8bb458da110b4513fed1a83",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "orientation": 6,
+    "pagingenabled": false,
+    "parent": "flxMother",
+    "percent": true,
+    "pf": "frmDetails",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

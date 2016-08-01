@@ -1,0 +1,35 @@
+{
+  "background_image": "bg_blur.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "ipad": {
+    "background_image": "bg_tablet_blur.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kuid": "s6e00088118846648d4aeceaef3749aa",
+  "spaandroidtablet": {
+    "background_image": "bg_tablet_blur.png",
+    "bg_type": "image"
+  },
+  "spaipad": {
+    "background_image": "bg_tablet_blur.png",
+    "bg_type": "image"
+  },
+  "spawindowstablet": {
+    "background_image": "bg_tablet_blur.png",
+    "bg_type": "image"
+  },
+  "tabrcandroid": {
+    "background_image": "bg_tablet_blur.png",
+    "bg_type": "image"
+  },
+  "wType": "FlexScrollContainer",
+  "windows8": {
+    "background_image": "bg_tablet_blur.png",
+    "bg_type": "image"
+  }
+}

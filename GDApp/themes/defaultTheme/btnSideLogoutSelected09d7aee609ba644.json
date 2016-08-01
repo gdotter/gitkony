@@ -1,0 +1,16 @@
+{
+  "background_image": "side_logout_pressed.png",
+  "bg_type": "image",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "2aa9e0ff",
+  "font_name": "Helvetica",
+  "font_size": 120,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s0b92eded869414eb54c5f2d76a18413",
+  "wType": "Button"
+}
