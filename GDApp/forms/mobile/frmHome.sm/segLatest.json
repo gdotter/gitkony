@@ -155,8 +155,8 @@
     "masterdata": {},
     "name": "kony.ui.SegmentedUI2",
     "needpageindicator": false,
-    "pageoffdotimage": "pageOffDot.png",
-    "pageondotimage": "pageOnDot.png",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
     "paginationconfig": {
         "position": "bottom",
         "vdistance": 1
