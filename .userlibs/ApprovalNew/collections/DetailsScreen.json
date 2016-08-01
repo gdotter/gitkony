@@ -1,0 +1,2169 @@
+{
+    "flxDetails": {
+        "images": [
+            "common/ava_stephan.png",
+            "mobile/native/android/drawable-xhdpi/ava_stephan.png",
+            "common/bg_blur.png",
+            "mobile/native/android/drawable-xhdpi/bg_blur.png",
+            "common/bg_tablet_blur.png",
+            "common/bg_tablet_blur.png",
+            "common/bg_tablet_blur.png",
+            "common/bg_tablet_blur.png",
+            "common/bg_tablet_blur.png",
+            "common/bg_tablet_blur.png",
+            "common/back_normal.png",
+            "mobile/native/android/drawable-xhdpi/back_normal.png",
+            "common/back_focus.png",
+            "mobile/native/android/drawable-xhdpi/back_focus.png"
+        ],
+        "skinDefs": {
+            "CopyslButtonGlossBlue0b7541745a1ef4b": {
+                "background_color": "92cc61ff",
+                "bg_type": "one",
+                "border_color": "ffffff00",
+                "border_radius": 3,
+                "border_style": "custom",
+                "border_type": 0,
+                "border_width": 1,
+                "font_color": "ffffffff",
+                "font_name": "Helvetica",
+                "font_size": 120,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s5b5530551c84a2d83e9bf9a4434f185",
+                "isDefaultSkin": false,
+                "kuid": "s5b5530551c84a2d83e9bf9a4434f185",
+                "wType": "Button"
+            },
+            "CopyslButtonGlossBlue0e63ded66fb2840": {
+                "background_color": "b22818ff",
+                "bg_type": "one",
+                "border_color": "ffffff00",
+                "border_radius": 3,
+                "border_style": "custom",
+                "border_type": 0,
+                "border_width": 1,
+                "font_color": "ffffffff",
+                "font_name": "Helvetica",
+                "font_size": 120,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s46e2a69b3064dcfa82301c2e062bc73",
+                "isDefaultSkin": false,
+                "kuid": "s46e2a69b3064dcfa82301c2e062bc73",
+                "wType": "Button"
+            },
+            "CopyslFSbox0e30508924a1749": {
+                "background_image": "bg_blur.png",
+                "bg_type": "image",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "s3b30794aa93472ba284d1c2df5331d7",
+                "ipad": {
+                    "background_image": "bg_tablet_blur.png",
+                    "bg_type": "image"
+                },
+                "isDefaultSkin": false,
+                "kuid": "s3b30794aa93472ba284d1c2df5331d7",
+                "spaandroidtablet": {
+                    "background_image": "bg_tablet_blur.png",
+                    "bg_type": "image"
+                },
+                "spaipad": {
+                    "background_image": "bg_tablet_blur.png",
+                    "bg_type": "image"
+                },
+                "spawindowstablet": {
+                    "background_image": "bg_tablet_blur.png",
+                    "bg_type": "image"
+                },
+                "tabrcandroid": {
+                    "background_image": "bg_tablet_blur.png",
+                    "bg_type": "image"
+                },
+                "wType": "FlexScrollContainer",
+                "windows8": {
+                    "background_image": "bg_tablet_blur.png",
+                    "bg_type": "image"
+                }
+            },
+            "CopyslFbox057b339c42a1946": {
+                "background_color": "ffffffb2",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "scdeef6a7ca84b33809899db9d531b14",
+                "isDefaultSkin": false,
+                "kuid": "scdeef6a7ca84b33809899db9d531b14",
+                "wType": "FlexContainer"
+            },
+            "CopyslFbox05a78e7a4a9604a": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "ffffffff",
+                "border_radius": 55,
+                "border_style": "custom",
+                "border_type": 0,
+                "border_width": 2,
+                "id": "s46dcdd7de414d27bc2719f316d8ed39",
+                "isDefaultSkin": false,
+                "kuid": "s46dcdd7de414d27bc2719f316d8ed39",
+                "wType": "FlexContainer"
+            },
+            "CopyslFbox066c2a500927641": {
+                "background_color": "ffffffff",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "se2ba2615a9a442e8376683afc6b2f46",
+                "isDefaultSkin": false,
+                "kuid": "se2ba2615a9a442e8376683afc6b2f46",
+                "wType": "FlexContainer"
+            },
+            "CopyslFbox08f0d74647d0f46": {
+                "background_color": "ffffffff",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "sa7988750bdd49988546f51ac26829f1",
+                "isDefaultSkin": false,
+                "kuid": "sa7988750bdd49988546f51ac26829f1",
+                "wType": "FlexContainer"
+            },
+            "CopyslFbox09d7f1a5312b04a": {
+                "background_color": "2aa9e0ff",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "sbaafff87c274732b7950c6f5fec6342",
+                "isDefaultSkin": false,
+                "kuid": "sbaafff87c274732b7950c6f5fec6342",
+                "wType": "FlexContainer"
+            },
+            "CopyslFbox0a9110378765b43": {
+                "background_color": "ffffffff",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "s1214974d88a4d4b84f94598a3321bb9",
+                "isDefaultSkin": false,
+                "kuid": "s1214974d88a4d4b84f94598a3321bb9",
+                "wType": "FlexContainer"
+            },
+            "CopyslFbox0d0783705072547": {
+                "android": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "isForked": true
+                },
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "se000259fdf24d16bdefa206acc78a3b",
+                "ipad": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "isForked": true
+                },
+                "iphone": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "isForked": true
+                },
+                "isDefaultSkin": false,
+                "kuid": "se000259fdf24d16bdefa206acc78a3b",
+                "spaan": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "spaandroidtablet": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "spabb": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "spaip": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "spaipad": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "spawindowstablet": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "spawinphone8": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "bottom_left_border_color": "000000ff",
+                    "bottom_left_border_style": "plain",
+                    "bottom_left_border_width": 0,
+                    "bottom_right_border_color": "000000ff",
+                    "bottom_right_border_style": "plain",
+                    "bottom_right_border_width": 0,
+                    "isForked": true,
+                    "top_left_border_color": "000000ff",
+                    "top_left_border_style": "plain",
+                    "top_left_border_width": 0,
+                    "top_right_border_color": "000000ff",
+                    "top_right_border_style": "plain",
+                    "top_right_border_width": 0
+                },
+                "tabrcandroid": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "isForked": true
+                },
+                "wType": "FlexContainer",
+                "windows8": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "isForked": true
+                },
+                "winphone8": {
+                    "background_color": "2aa9e000",
+                    "bg_type": "one",
+                    "isForked": true
+                }
+            },
+            "CopyslLabel027e1b9d8671747": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "424242ff",
+                "font_name": "Helvetica",
+                "font_size": 120,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s6dd14f783704b6abb4673f41f2a234a",
+                "isDefaultSkin": false,
+                "kuid": "s6dd14f783704b6abb4673f41f2a234a",
+                "wType": "Label"
+            },
+            "CopyslLabel056163f9afc5f40": {
+                "android": {
+                    "font_name": "Helvetica"
+                },
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "424242ff",
+                "font_name": "",
+                "font_size": 110,
+                "font_style": "normal",
+                "font_weight": "bold",
+                "id": "s949f37d482f44d5827a06d7fe648da7",
+                "ipad": {
+                    "font_name": "Helvetica"
+                },
+                "iphone": {
+                    "font_name": "Helvetica-Bold"
+                },
+                "isDefaultSkin": false,
+                "kuid": "s949f37d482f44d5827a06d7fe648da7",
+                "spaan": {
+                    "font_name": "Helvetica"
+                },
+                "spaandroidtablet": {
+                    "font_name": "Helvetica"
+                },
+                "spabb": {
+                    "font_name": "Helvetica"
+                },
+                "spaip": {
+                    "font_name": "Helvetica"
+                },
+                "spaipad": {
+                    "font_name": "Helvetica"
+                },
+                "spawindowstablet": {
+                    "font_name": "Helvetica"
+                },
+                "spawinphone8": {
+                    "font_name": "Helvetica"
+                },
+                "tabrcandroid": {
+                    "font_name": "Helvetica"
+                },
+                "wType": "Label",
+                "windows8": {
+                    "font_name": "GenericMonospace"
+                },
+                "winphone8": {
+                    "font_name": "GenericMonospace"
+                }
+            },
+            "CopyslLabel0704481eb505147": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "000000ff",
+                "font_name": "Helvetica",
+                "font_size": 120,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s7f4acac333140a190208a959bcd23b0",
+                "isDefaultSkin": false,
+                "kuid": "s7f4acac333140a190208a959bcd23b0",
+                "wType": "Label"
+            },
+            "CopyslLabel09dd530b641c840": {
+                "android": {
+                    "font_name": "Helvetica"
+                },
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "2aa9e0ff",
+                "font_name": "",
+                "font_size": 120,
+                "font_style": "normal",
+                "font_weight": "bold",
+                "id": "s1e72f1c592345039f1afa6be8dcac77",
+                "ipad": {
+                    "font_name": "Helvetica"
+                },
+                "iphone": {
+                    "font_name": "Helvetica-Bold"
+                },
+                "isDefaultSkin": false,
+                "kuid": "s1e72f1c592345039f1afa6be8dcac77",
+                "spaan": {
+                    "font_name": "Helvetica"
+                },
+                "spaandroidtablet": {
+                    "font_name": "Helvetica"
+                },
+                "spabb": {
+                    "font_name": "Helvetica"
+                },
+                "spaip": {
+                    "font_name": "Helvetica"
+                },
+                "spaipad": {
+                    "font_name": "Helvetica"
+                },
+                "spawindowstablet": {
+                    "font_name": "Helvetica"
+                },
+                "spawinphone8": {
+                    "font_name": "Helvetica"
+                },
+                "tabrcandroid": {
+                    "font_name": "Helvetica"
+                },
+                "wType": "Label",
+                "windows8": {
+                    "font_name": "GenericMonospace"
+                },
+                "winphone8": {
+                    "font_name": "GenericMonospace"
+                }
+            },
+            "CopyslLabel0b910b889b10749": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "424242ff",
+                "font_name": "Helvetica",
+                "font_size": 90,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "sde4fbbeb7144a8598ef7a92a5a37349",
+                "isDefaultSkin": false,
+                "kuid": "sde4fbbeb7144a8598ef7a92a5a37349",
+                "wType": "Label"
+            },
+            "CopyslLabel0d4db4b2e558a4c": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "2aa9e0ff",
+                "font_name": "Helvetica",
+                "font_size": 140,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s42e9e2b97c14bfc8ec6487b9a7e691b",
+                "isDefaultSkin": false,
+                "kuid": "s42e9e2b97c14bfc8ec6487b9a7e691b",
+                "wType": "Label"
+            },
+            "CopyslLabel0f5c3c34bb95d43": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "424242ff",
+                "font_name": "Helvetica",
+                "font_size": 97,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s45213ffdebe43ff99cc63fb6f174def",
+                "isDefaultSkin": false,
+                "kuid": "s45213ffdebe43ff99cc63fb6f174def",
+                "wType": "Label"
+            },
+            "btnBackFocus051f174fcb87a47": {
+                "background_image": "back_focus.png",
+                "bg_type": "image",
+                "border_color": "ffffffff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "ffffffff",
+                "font_name": "Helvetica",
+                "font_size": 146,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s137baa07470471aa8a5ab7b411d5a0b",
+                "isDefaultSkin": false,
+                "kuid": "s137baa07470471aa8a5ab7b411d5a0b",
+                "wType": "Button"
+            },
+            "btnBackNormal0deec2822445b4c": {
+                "background_image": "back_normal.png",
+                "bg_type": "image",
+                "border_color": "ffffffff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "ffffffff",
+                "font_name": "Helvetica",
+                "font_size": 146,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s08f7a4e96674a7596fe2bb196de4317",
+                "isDefaultSkin": false,
+                "kuid": "s08f7a4e96674a7596fe2bb196de4317",
+                "wType": "Button"
+            },
+            "flxLineHeader0f50b3af6a4094f": {
+                "background_gradient_bottom_color": "cbcecfff",
+                "background_gradient_top_color": "a9acaeff",
+                "background_style": "vs",
+                "bg_type": "two",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "s10665d74c114b9cb7561210672bd1cc",
+                "isDefaultSkin": false,
+                "kuid": "s10665d74c114b9cb7561210672bd1cc",
+                "wType": "FlexContainer"
+            },
+            "flxWhite01d4bb4ebe5e74f": {
+                "background_color": "ffffffff",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "secc989859ae46d580936cd195a24e35",
+                "isDefaultSkin": false,
+                "kuid": "secc989859ae46d580936cd195a24e35",
+                "wType": "FlexContainer"
+            },
+            "lblUserTitle022d9edf8938b47": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "424242ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "000000ff",
+                "font_name": "Helvetica",
+                "font_size": 100,
+                "font_style": "italic",
+                "font_weight": "normal",
+                "id": "s6c8ddec55f448a5b3d25c5eb9c4f831",
+                "isDefaultSkin": false,
+                "kuid": "s6c8ddec55f448a5b3d25c5eb9c4f831",
+                "wType": "Label"
+            },
+            "slFbox04082831a9fef46": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "id": "s72150dc60094d6cbf084ca955c401ab",
+                "isDefaultSkin": false,
+                "kuid": "s72150dc60094d6cbf084ca955c401ab",
+                "wType": "FlexContainer"
+            },
+            "slImage0efe0b8d048b34a": {
+                "background_color": "00000000",
+                "bg_type": "one",
+                "border_color": "000000ff",
+                "border_style": "plain",
+                "border_type": 0,
+                "border_width": 0,
+                "font_color": "000000ff",
+                "font_name": "Helvetica",
+                "font_size": 157,
+                "font_style": "normal",
+                "font_weight": "normal",
+                "id": "s3fd4c3f92bd4847980cf5302506c5c5",
+                "isDefaultSkin": false,
+                "kuid": "s3fd4c3f92bd4847980cf5302506c5c5",
+                "wType": "Image"
+            }
+        },
+        "sourceChannel": "mobile",
+        "templateDef": {
+            "DNDConfig": null,
+            "__parentReadjusting__": false,
+            "_height_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "_left_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_margin_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_padding_": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "_render_": true,
+            "_skin_": "slFbox04082831a9fef46",
+            "_top_": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "_width_": {
+                "type": "string",
+                "value": "100%"
+            },
+            "allboxes": [],
+            "autogrowmode": 0,
+            "canUpdateUI": true,
+            "children": [
+                "flxScroller",
+                "flxHeader",
+                "flxDetailButtonFooter"
+            ],
+            "clipbounds": true,
+            "containerweight": 100,
+            "enabled": false,
+            "enablescrolling": true,
+            "flxDetailButtonFooter": {
+                "DNDConfig": null,
+                "__parentReadjusting__": false,
+                "_bottom_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_height_": {
+                    "type": "string",
+                    "value": "65dp"
+                },
+                "_left_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_margin_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_padding_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_render_": true,
+                "_skin_": "CopyslFbox066c2a500927641",
+                "_width_": {
+                    "type": "string",
+                    "value": "100%"
+                },
+                "allboxes": [],
+                "autogrowmode": 0,
+                "btnApprove": {
+                    "@class": "com.kony.gen.viz.model.component.KVizButton",
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_bottom_": {
+                        "type": "number",
+                        "value": "10"
+                    },
+                    "_enabled_": false,
+                    "_height_": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "_margin_": [
+                        6,
+                        6,
+                        6,
+                        6
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_right_": {
+                        "type": "number",
+                        "value": "20"
+                    },
+                    "_skin_": "CopyslButtonGlossBlue0b7541745a1ef4b",
+                    "_text_": "Approve",
+                    "_top_": {
+                        "type": "string",
+                        "value": "10dp"
+                    },
+                    "_width_": {
+                        "type": "string",
+                        "value": "43%"
+                    },
+                    "canUpdateUI": true,
+                    "containerweight": 100,
+                    "contentalignment": 5,
+                    "displaytext": true,
+                    "focusskin": "CopyslButtonGlossBlue0b7541745a1ef4b",
+                    "id": "btnApprove",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "982cb3834c2f4c68a97a84b979d72704",
+                    "name": "kony.ui.Button",
+                    "parent": "flxDetailButtonFooter",
+                    "pf": "frmDetails",
+                    "wType": "Button",
+                    "widgetalignment": 5
+                },
+                "btnReject": {
+                    "@class": "com.kony.gen.viz.model.component.KVizButton",
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_bottom_": {
+                        "type": "number",
+                        "value": "10"
+                    },
+                    "_enabled_": false,
+                    "_height_": {
+                        "type": "string",
+                        "value": "45dp"
+                    },
+                    "_left_": {
+                        "type": "string",
+                        "value": "10dp"
+                    },
+                    "_margin_": [
+                        6,
+                        6,
+                        6,
+                        6
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "CopyslButtonGlossBlue0e63ded66fb2840",
+                    "_text_": "Reject",
+                    "_top_": {
+                        "type": "string",
+                        "value": "10dp"
+                    },
+                    "_width_": {
+                        "type": "string",
+                        "value": "43%"
+                    },
+                    "canUpdateUI": true,
+                    "containerweight": 100,
+                    "contentalignment": 5,
+                    "displaytext": true,
+                    "focusskin": "CopyslButtonGlossBlue0e63ded66fb2840",
+                    "id": "btnReject",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "8a28ab17db6942edbf4105013c497a51",
+                    "name": "kony.ui.Button",
+                    "parent": "flxDetailButtonFooter",
+                    "pf": "frmDetails",
+                    "wType": "Button",
+                    "widgetalignment": 5
+                },
+                "canUpdateUI": true,
+                "children": [
+                    "btnReject",
+                    "btnApprove"
+                ],
+                "clipbounds": true,
+                "containerweight": 100,
+                "enabled": false,
+                "enablescrolling": true,
+                "id": "flxDetailButtonFooter",
+                "info": null,
+                "isvisible": true,
+                "kuid": "7ba72ffa62ad40d0a9fd4443c408b99c",
+                "layouttype": 2,
+                "name": "kony.ui.FlexContainer",
+                "orientation": 6,
+                "parent": "flxMother",
+                "percent": true,
+                "pf": "frmDetails",
+                "snapgridsize": 10,
+                "snaptogrid": true,
+                "wType": "FlexContainer",
+                "widgetalignment": 1,
+                "zindex": 3
+            },
+            "flxHeader": {
+                "DNDConfig": null,
+                "__parentReadjusting__": false,
+                "_height_": {
+                    "type": "string",
+                    "value": "53dp"
+                },
+                "_left_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_margin_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_padding_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_render_": true,
+                "_skin_": "flxWhite01d4bb4ebe5e74f",
+                "_top_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_width_": {
+                    "type": "string",
+                    "value": "100%"
+                },
+                "allboxes": [],
+                "btnSideMenu": {
+                    "@class": "com.kony.gen.viz.model.component.KVizButton",
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_enabled_": false,
+                    "_height_": {
+                        "type": "string",
+                        "value": "53dp"
+                    },
+                    "_left_": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "_margin_": [
+                        6,
+                        6,
+                        6,
+                        6
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "btnBackNormal0deec2822445b4c",
+                    "_text_": "",
+                    "_width_": {
+                        "type": "string",
+                        "value": "53dp"
+                    },
+                    "android": {
+                        "render": false
+                    },
+                    "canUpdateUI": true,
+                    "centery": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "containerweight": 100,
+                    "contentalignment": 5,
+                    "disabledSkins": {},
+                    "displaytext": false,
+                    "focusskin": "btnBackFocus051f174fcb87a47",
+                    "id": "btnSideMenu",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "33e9648d78bd4e148aa30627d0e6cabd",
+                    "name": "kony.ui.Button",
+                    "parent": "flxHeader",
+                    "pf": "frmDetails",
+                    "spaan": {
+                        "render": false
+                    },
+                    "spawinphone8": {
+                        "render": false
+                    },
+                    "wType": "Button",
+                    "widgetalignment": 5,
+                    "winphone8": {
+                        "render": false
+                    },
+                    "zindex": 1
+                },
+                "canUpdateUI": true,
+                "children": [
+                    "flxLineHeader",
+                    "btnSideMenu",
+                    "lblTitle"
+                ],
+                "clipbounds": true,
+                "containerweight": 100,
+                "enabled": false,
+                "enablescrolling": true,
+                "flxLineHeader": {
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_bottom_": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "_height_": {
+                        "type": "string",
+                        "value": "1dp"
+                    },
+                    "_left_": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "_margin_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "flxLineHeader0f50b3af6a4094f",
+                    "_width_": {
+                        "type": "string",
+                        "value": "100%"
+                    },
+                    "allboxes": [],
+                    "canUpdateUI": true,
+                    "children": [],
+                    "clipbounds": true,
+                    "containerweight": 100,
+                    "enabled": false,
+                    "enablescrolling": true,
+                    "id": "flxLineHeader",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "5cd8c3934ce4415f9602329228f1bf98",
+                    "layouttype": 2,
+                    "name": "kony.ui.FlexContainer",
+                    "orientation": 6,
+                    "parent": "flxHeader",
+                    "percent": true,
+                    "pf": "frmDetails",
+                    "snapgridsize": 10,
+                    "snaptogrid": true,
+                    "wType": "FlexContainer",
+                    "widgetalignment": 1
+                },
+                "id": "flxHeader",
+                "info": null,
+                "isvisible": true,
+                "kuid": "78dedf015cba437f96f3d6919508cc48",
+                "layouttype": 2,
+                "lblTitle": {
+                    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_height_": {
+                        "type": "ref",
+                        "value": "preferred"
+                    },
+                    "_margin_": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "CopyslLabel0d4db4b2e558a4c",
+                    "_text_": "Details",
+                    "_width_": {
+                        "type": "ref",
+                        "value": "preferred"
+                    },
+                    "_wrapping_": 2,
+                    "canUpdateUI": true,
+                    "centerx": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "centery": {
+                        "type": "string",
+                        "value": "50%"
+                    },
+                    "containerweight": 100,
+                    "contentalignment": 4,
+                    "enabled": false,
+                    "id": "lblTitle",
+                    "info": null,
+                    "ipad": {
+                        "psp": {
+                            "wrapping": 2
+                        }
+                    },
+                    "iphone": {
+                        "psp": {
+                            "wrapping": 2
+                        }
+                    },
+                    "isvisible": true,
+                    "kuid": "0f7028620fb64e4f8b0a20779c257264",
+                    "name": "kony.ui.Label",
+                    "parent": "flxHeader",
+                    "pf": "frmDetails",
+                    "tooltip": "",
+                    "wType": "Label",
+                    "widgetalignment": 5,
+                    "zindex": 1
+                },
+                "name": "kony.ui.FlexContainer",
+                "orientation": 6,
+                "parent": "flxMother",
+                "percent": true,
+                "pf": "frmDetails",
+                "snapgridsize": 10,
+                "snaptogrid": true,
+                "wType": "FlexContainer",
+                "widgetalignment": 1,
+                "zindex": 3
+            },
+            "flxScroller": {
+                "DNDConfig": null,
+                "__parentReadjusting__": false,
+                "_bottom_": {
+                    "type": "number",
+                    "value": "60"
+                },
+                "_decelerating_": false,
+                "_dragging_": false,
+                "_left_": {
+                    "type": "string",
+                    "value": "0dp"
+                },
+                "_margin_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_padding_": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "_render_": true,
+                "_skin_": "CopyslFSbox0e30508924a1749",
+                "_top_": {
+                    "type": "string",
+                    "value": "45dp"
+                },
+                "_tracking_": false,
+                "_width_": {
+                    "type": "string",
+                    "value": "100%"
+                },
+                "allboxes": [],
+                "allowhorizontalbounce": false,
+                "allowverticalbounce": true,
+                "bounces": true,
+                "canUpdateUI": true,
+                "children": [
+                    "flxDetailUser",
+                    "flxExpenseLine",
+                    "flxWhite"
+                ],
+                "clipbounds": true,
+                "containerweight": 100,
+                "contentoffset": {
+                    "x": "0dp",
+                    "y": "0dp"
+                },
+                "contentoffsetx": "0dp",
+                "contentoffsety": "0dp",
+                "contentsize": {
+                    "height": "700dp",
+                    "width": "100%"
+                },
+                "contentsizeheight": "700dp",
+                "contentsizewidth": "100%",
+                "decelerat": false,
+                "dragg": false,
+                "enabled": false,
+                "enablescrolling": true,
+                "flxDetailUser": {
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_height_": {
+                        "type": "string",
+                        "value": "250dp"
+                    },
+                    "_left_": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "_margin_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "CopyslFbox0d0783705072547",
+                    "_top_": {
+                        "type": "string",
+                        "value": "20dp"
+                    },
+                    "_width_": {
+                        "type": "string",
+                        "value": "100%"
+                    },
+                    "allboxes": [],
+                    "autogrowmode": 0,
+                    "canUpdateUI": true,
+                    "children": [
+                        "flxDetailMaskAvatar",
+                        "flxDetailsTextContainer",
+                        "flxDetailsFooter"
+                    ],
+                    "clipbounds": true,
+                    "containerweight": 100,
+                    "enabled": false,
+                    "enablescrolling": true,
+                    "flxDetailMaskAvatar": {
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_height_": {
+                            "type": "string",
+                            "value": "110dp"
+                        },
+                        "_margin_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_skin_": "CopyslFbox05a78e7a4a9604a",
+                        "_top_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_width_": {
+                            "type": "string",
+                            "value": "110dp"
+                        },
+                        "allboxes": [],
+                        "autogrowmode": 0,
+                        "canUpdateUI": true,
+                        "centerx": {
+                            "type": "string",
+                            "value": "50%"
+                        },
+                        "children": [
+                            "imgDetailAvatar"
+                        ],
+                        "clipbounds": true,
+                        "containerweight": 100,
+                        "enabled": false,
+                        "enablescrolling": true,
+                        "id": "flxDetailMaskAvatar",
+                        "imgDetailAvatar": {
+                            "@class": "com.kony.gen.viz.model.component.KVizImage2",
+                            "DNDConfig": null,
+                            "__parentReadjusting__": false,
+                            "_base64_": null,
+                            "_height_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_margin_": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "_padding_": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "_render_": true,
+                            "_skin_": "slImage0efe0b8d048b34a",
+                            "_src_": "ava_stephan.png",
+                            "_top_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "canUpdateUI": true,
+                            "containerweight": 100,
+                            "context": {
+                                "channel": "mobile",
+                                "formID": "frmDetails",
+                                "templateType": "forms",
+                                "topLevelBox": null
+                            },
+                            "enabled": false,
+                            "id": "imgDetailAvatar",
+                            "imagescalemode": 1,
+                            "info": null,
+                            "invokedProperty": "src",
+                            "isvisible": true,
+                            "kuid": "25ab661380704de4b521e5c8611b124c",
+                            "name": "kony.ui.Image2",
+                            "parent": "flxDetailMaskAvatar",
+                            "pf": "frmDetails",
+                            "srcType": 1,
+                            "wType": "Image",
+                            "widgetalignment": 5
+                        },
+                        "info": null,
+                        "isvisible": true,
+                        "kuid": "325bfa4a3bd54822bb9b1b72331891f5",
+                        "layouttype": 2,
+                        "name": "kony.ui.FlexContainer",
+                        "orientation": 6,
+                        "parent": "flxDetailUser",
+                        "percent": true,
+                        "pf": "frmDetails",
+                        "snapgridsize": 10,
+                        "snaptogrid": true,
+                        "wType": "FlexContainer",
+                        "widgetalignment": 1
+                    },
+                    "flxDetailsFooter": {
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_bottom_": {
+                            "type": "string",
+                            "value": "0dp"
+                        },
+                        "_height_": {
+                            "type": "string",
+                            "value": "50dp"
+                        },
+                        "_left_": {
+                            "type": "string",
+                            "value": "0dp"
+                        },
+                        "_margin_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_right_": {
+                            "type": "string",
+                            "value": "0dp"
+                        },
+                        "_skin_": "CopyslFbox057b339c42a1946",
+                        "_width_": {
+                            "type": "string",
+                            "value": "100%"
+                        },
+                        "allboxes": [],
+                        "autogrowmode": 0,
+                        "canUpdateUI": true,
+                        "children": [
+                            "lblDate"
+                        ],
+                        "clipbounds": true,
+                        "containerweight": 100,
+                        "enabled": false,
+                        "enablescrolling": true,
+                        "id": "flxDetailsFooter",
+                        "info": null,
+                        "isvisible": true,
+                        "kuid": "7b909f4be89043c6ad26ff04544a485f",
+                        "layouttype": 2,
+                        "lblDate": {
+                            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                            "DNDConfig": null,
+                            "__parentReadjusting__": false,
+                            "_height_": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "20dp"
+                            },
+                            "_margin_": [
+                                1,
+                                1,
+                                1,
+                                1
+                            ],
+                            "_padding_": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "_render_": true,
+                            "_right_": {
+                                "type": "string",
+                                "value": "20dp"
+                            },
+                            "_skin_": "CopyslLabel09dd530b641c840",
+                            "_text_": "March 10, 2015",
+                            "_wrapping_": 2,
+                            "canUpdateUI": true,
+                            "centery": {
+                                "type": "string",
+                                "value": "50%"
+                            },
+                            "containerweight": 100,
+                            "contentalignment": 5,
+                            "enabled": false,
+                            "id": "lblDate",
+                            "info": null,
+                            "ipad": {
+                                "psp": {
+                                    "wrapping": 2
+                                }
+                            },
+                            "iphone": {
+                                "psp": {
+                                    "wrapping": 2
+                                }
+                            },
+                            "isvisible": true,
+                            "kuid": "521815437cf34e0285e7400aea9e354c",
+                            "name": "kony.ui.Label",
+                            "parent": "flxDetailsFooter",
+                            "pf": "frmDetails",
+                            "tooltip": "",
+                            "wType": "Label",
+                            "widgetalignment": 5
+                        },
+                        "name": "kony.ui.FlexContainer",
+                        "orientation": 6,
+                        "parent": "flxDetailUser",
+                        "percent": true,
+                        "pf": "frmDetails",
+                        "snapgridsize": 10,
+                        "snaptogrid": true,
+                        "wType": "FlexContainer",
+                        "widgetalignment": 1,
+                        "zindex": 1
+                    },
+                    "flxDetailsTextContainer": {
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_bottom_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_left_": {
+                            "type": "string",
+                            "value": "20dp"
+                        },
+                        "_margin_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_right_": {
+                            "type": "string",
+                            "value": "20dp"
+                        },
+                        "_skin_": "slFbox04082831a9fef46",
+                        "_top_": {
+                            "type": "string",
+                            "value": "140dp"
+                        },
+                        "allboxes": [],
+                        "autogrowmode": 0,
+                        "canUpdateUI": true,
+                        "centerx": {
+                            "type": "string",
+                            "value": "50%"
+                        },
+                        "children": [
+                            "lblUserName",
+                            "lblUserTitle"
+                        ],
+                        "clipbounds": true,
+                        "containerweight": 100,
+                        "enabled": false,
+                        "enablescrolling": true,
+                        "id": "flxDetailsTextContainer",
+                        "info": null,
+                        "isvisible": true,
+                        "kuid": "9c6f147b553e4272a60ad53e4ac03e41",
+                        "layouttype": 4,
+                        "lblUserName": {
+                            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                            "DNDConfig": null,
+                            "__parentReadjusting__": false,
+                            "_height_": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_margin_": [
+                                1,
+                                1,
+                                1,
+                                1
+                            ],
+                            "_padding_": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "_render_": true,
+                            "_right_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_skin_": "CopyslLabel0704481eb505147",
+                            "_text_": "Name goes here...",
+                            "_top_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_wrapping_": 2,
+                            "canUpdateUI": true,
+                            "containerweight": 100,
+                            "contentalignment": 5,
+                            "enabled": false,
+                            "id": "lblUserName",
+                            "info": null,
+                            "ipad": {
+                                "psp": {
+                                    "wrapping": 2
+                                }
+                            },
+                            "iphone": {
+                                "psp": {
+                                    "wrapping": 2
+                                }
+                            },
+                            "isvisible": true,
+                            "kuid": "679816b7f7984b7ca87c56b13b3cf56d",
+                            "name": "kony.ui.Label",
+                            "parent": "flxDetailsTextContainer",
+                            "pf": "frmDetails",
+                            "tooltip": "",
+                            "wType": "Label",
+                            "widgetalignment": 5
+                        },
+                        "lblUserTitle": {
+                            "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                            "DNDConfig": null,
+                            "__parentReadjusting__": false,
+                            "_height_": {
+                                "type": "ref",
+                                "value": "preferred"
+                            },
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_margin_": [
+                                1,
+                                1,
+                                1,
+                                1
+                            ],
+                            "_padding_": [
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "_render_": true,
+                            "_right_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_skin_": "lblUserTitle022d9edf8938b47",
+                            "_text_": "Designation goes here...",
+                            "_top_": {
+                                "type": "string",
+                                "value": "2dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_wrapping_": 2,
+                            "canUpdateUI": true,
+                            "containerweight": 100,
+                            "contentalignment": 5,
+                            "enabled": false,
+                            "id": "lblUserTitle",
+                            "info": null,
+                            "ipad": {
+                                "psp": {
+                                    "wrapping": 2
+                                }
+                            },
+                            "iphone": {
+                                "psp": {
+                                    "wrapping": 2
+                                }
+                            },
+                            "isvisible": true,
+                            "kuid": "f27bce76fe634bcda5257e9beba71cf9",
+                            "name": "kony.ui.Label",
+                            "parent": "flxDetailsTextContainer",
+                            "pf": "frmDetails",
+                            "tooltip": "",
+                            "wType": "Label",
+                            "widgetalignment": 5
+                        },
+                        "name": "kony.ui.FlexContainer",
+                        "orientation": 6,
+                        "parent": "flxDetailUser",
+                        "percent": true,
+                        "pf": "frmDetails",
+                        "snapgridsize": 10,
+                        "snaptogrid": true,
+                        "wType": "FlexContainer",
+                        "widgetalignment": 1,
+                        "zindex": 1
+                    },
+                    "id": "flxDetailUser",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "5bbc09a0c8d6483dbc1333f1d9813a24",
+                    "layouttype": 2,
+                    "name": "kony.ui.FlexContainer",
+                    "orientation": 6,
+                    "parent": "flxScroller",
+                    "percent": true,
+                    "pf": "frmDetails",
+                    "snapgridsize": 10,
+                    "snaptogrid": true,
+                    "wType": "FlexContainer",
+                    "widgetalignment": 1,
+                    "zindex": 3
+                },
+                "flxExpenseLine": {
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_height_": {
+                        "type": "string",
+                        "value": "120dp"
+                    },
+                    "_left_": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "_margin_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "CopyslFbox08f0d74647d0f46",
+                    "_top_": {
+                        "type": "string",
+                        "value": "270dp"
+                    },
+                    "_width_": {
+                        "type": "string",
+                        "value": "100%"
+                    },
+                    "allboxes": [],
+                    "autogrowmode": 0,
+                    "canUpdateUI": true,
+                    "children": [
+                        "lblExpenseTitle",
+                        "lblExpenseDesc",
+                        "lblExpenseCat",
+                        "lblExpenseCatNum",
+                        "lblExpensePrice",
+                        "flxLineBlue"
+                    ],
+                    "clipbounds": true,
+                    "containerweight": 100,
+                    "enabled": false,
+                    "enablescrolling": true,
+                    "flxLineBlue": {
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_bottom_": {
+                            "type": "string",
+                            "value": "0dp"
+                        },
+                        "_height_": {
+                            "type": "string",
+                            "value": "1dp"
+                        },
+                        "_left_": {
+                            "type": "string",
+                            "value": "0dp"
+                        },
+                        "_margin_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_skin_": "CopyslFbox09d7f1a5312b04a",
+                        "_width_": {
+                            "type": "string",
+                            "value": "100%"
+                        },
+                        "allboxes": [],
+                        "autogrowmode": 0,
+                        "canUpdateUI": true,
+                        "children": [],
+                        "clipbounds": true,
+                        "containerweight": 100,
+                        "enabled": false,
+                        "enablescrolling": true,
+                        "id": "flxLineBlue",
+                        "info": null,
+                        "isvisible": true,
+                        "kuid": "bb83f186e4564ebb81fa8009f36762ff",
+                        "layouttype": 2,
+                        "name": "kony.ui.FlexContainer",
+                        "orientation": 6,
+                        "parent": "flxExpenseLine",
+                        "percent": true,
+                        "pf": "frmDetails",
+                        "snapgridsize": 10,
+                        "snaptogrid": true,
+                        "wType": "FlexContainer",
+                        "widgetalignment": 1
+                    },
+                    "id": "flxExpenseLine",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "65447999589641a3a7beec773a32512e",
+                    "layouttype": 2,
+                    "lblExpenseCat": {
+                        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_bottom_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_height_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_left_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_margin_": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_skin_": "CopyslLabel0b910b889b10749",
+                        "_text_": "Hardware Equipment > $100",
+                        "_width_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_wrapping_": 2,
+                        "canUpdateUI": true,
+                        "containerweight": 100,
+                        "contentalignment": 4,
+                        "enabled": false,
+                        "id": "lblExpenseCat",
+                        "info": null,
+                        "ipad": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "iphone": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "isvisible": true,
+                        "kuid": "06c1719fca03475d8ecd490a8c610b35",
+                        "name": "kony.ui.Label",
+                        "parent": "flxExpenseLine",
+                        "pf": "frmDetails",
+                        "tooltip": "",
+                        "wType": "Label",
+                        "widgetalignment": 5
+                    },
+                    "lblExpenseCatNum": {
+                        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_bottom_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_height_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_margin_": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_right_": {
+                            "type": "number",
+                            "value": "15"
+                        },
+                        "_skin_": "CopyslLabel0b910b889b10749",
+                        "_text_": "09823-17237492-AW",
+                        "_width_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_wrapping_": 2,
+                        "canUpdateUI": true,
+                        "containerweight": 100,
+                        "contentalignment": 4,
+                        "enabled": false,
+                        "id": "lblExpenseCatNum",
+                        "info": null,
+                        "ipad": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "iphone": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "isvisible": true,
+                        "kuid": "a960d361ed8640a8a5e2113571c788f3",
+                        "name": "kony.ui.Label",
+                        "parent": "flxExpenseLine",
+                        "pf": "frmDetails",
+                        "tooltip": "",
+                        "wType": "Label",
+                        "widgetalignment": 5
+                    },
+                    "lblExpenseDesc": {
+                        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_height_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_left_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_margin_": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_right_": {
+                            "type": "string",
+                            "value": "70dp"
+                        },
+                        "_skin_": "CopyslLabel0f5c3c34bb95d43",
+                        "_text_": "Required for a single demo machine",
+                        "_top_": {
+                            "type": "string",
+                            "value": "40dp"
+                        },
+                        "_wrapping_": 2,
+                        "canUpdateUI": true,
+                        "containerweight": 100,
+                        "contentalignment": 4,
+                        "enabled": false,
+                        "id": "lblExpenseDesc",
+                        "info": null,
+                        "ipad": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "iphone": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "isvisible": true,
+                        "kuid": "279c877c369c474cb269d050b137d45a",
+                        "name": "kony.ui.Label",
+                        "parent": "flxExpenseLine",
+                        "pf": "frmDetails",
+                        "tooltip": "",
+                        "wType": "Label",
+                        "widgetalignment": 5
+                    },
+                    "lblExpensePrice": {
+                        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_height_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_margin_": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_right_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_skin_": "CopyslLabel027e1b9d8671747",
+                        "_text_": "$1500",
+                        "_width_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_wrapping_": 2,
+                        "canUpdateUI": true,
+                        "centery": {
+                            "type": "string",
+                            "value": "50%"
+                        },
+                        "containerweight": 100,
+                        "contentalignment": 4,
+                        "enabled": false,
+                        "id": "lblExpensePrice",
+                        "info": null,
+                        "ipad": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "iphone": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "isvisible": true,
+                        "kuid": "ac54e69f0657491580ef8cd6cd5fd41c",
+                        "name": "kony.ui.Label",
+                        "parent": "flxExpenseLine",
+                        "pf": "frmDetails",
+                        "tooltip": "",
+                        "wType": "Label",
+                        "widgetalignment": 5,
+                        "zindex": 1
+                    },
+                    "lblExpenseTitle": {
+                        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+                        "DNDConfig": null,
+                        "__parentReadjusting__": false,
+                        "_height_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_left_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_margin_": [
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        "_padding_": [
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "_render_": true,
+                        "_skin_": "CopyslLabel056163f9afc5f40",
+                        "_text_": "New MacBook Pro",
+                        "_top_": {
+                            "type": "string",
+                            "value": "15dp"
+                        },
+                        "_width_": {
+                            "type": "ref",
+                            "value": "preferred"
+                        },
+                        "_wrapping_": 2,
+                        "canUpdateUI": true,
+                        "containerweight": 100,
+                        "contentalignment": 4,
+                        "enabled": false,
+                        "id": "lblExpenseTitle",
+                        "info": null,
+                        "ipad": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "iphone": {
+                            "psp": {
+                                "wrapping": 2
+                            }
+                        },
+                        "isvisible": true,
+                        "kuid": "e3076716f38b40e1bab95d6684246450",
+                        "name": "kony.ui.Label",
+                        "parent": "flxExpenseLine",
+                        "pf": "frmDetails",
+                        "tooltip": "",
+                        "wType": "Label",
+                        "widgetalignment": 5
+                    },
+                    "name": "kony.ui.FlexContainer",
+                    "orientation": 6,
+                    "parent": "flxScroller",
+                    "percent": true,
+                    "pf": "frmDetails",
+                    "snapgridsize": 10,
+                    "snaptogrid": true,
+                    "wType": "FlexContainer",
+                    "widgetalignment": 1,
+                    "zindex": 3
+                },
+                "flxWhite": {
+                    "DNDConfig": null,
+                    "__parentReadjusting__": false,
+                    "_height_": {
+                        "type": "string",
+                        "value": "500dp"
+                    },
+                    "_left_": {
+                        "type": "string",
+                        "value": "0dp"
+                    },
+                    "_margin_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_padding_": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "_render_": true,
+                    "_skin_": "CopyslFbox0a9110378765b43",
+                    "_top_": {
+                        "type": "string",
+                        "value": "390dp"
+                    },
+                    "_width_": {
+                        "type": "string",
+                        "value": "100%"
+                    },
+                    "allboxes": [],
+                    "autogrowmode": 0,
+                    "canUpdateUI": true,
+                    "children": [],
+                    "clipbounds": true,
+                    "containerweight": 100,
+                    "enabled": false,
+                    "enablescrolling": true,
+                    "id": "flxWhite",
+                    "info": null,
+                    "isvisible": true,
+                    "kuid": "09cae2da920144a8a7659144866fab48",
+                    "layouttype": 2,
+                    "name": "kony.ui.FlexContainer",
+                    "orientation": 6,
+                    "parent": "flxScroller",
+                    "percent": true,
+                    "pf": "frmDetails",
+                    "snapgridsize": 10,
+                    "snaptogrid": true,
+                    "wType": "FlexContainer",
+                    "widgetalignment": 1,
+                    "zindex": 3
+                },
+                "horizontalscrollindicator": false,
+                "id": "flxScroller",
+                "info": null,
+                "isvisible": true,
+                "kuid": "25fd809a3d8a4f7881b471e5b77c8639",
+                "layouttype": 2,
+                "name": "kony.ui.FlexScrollContainer",
+                "orientation": 6,
+                "pagingenabled": false,
+                "parent": "flxMother",
+                "percent": true,
+                "pf": "frmDetails",
+                "scrolldirection": 2,
+                "snapgridsize": 10,
+                "snaptogrid": true,
+                "track": false,
+                "verticalscrollindicator": true,
+                "wType": "FlexScrollContainer",
+                "widgetalignment": 1,
+                "zindex": 1
+            },
+            "id": "flxMother",
+            "info": null,
+            "isvisible": true,
+            "kuid": "4d6dea92a8c247a19247a7d2a0a83785",
+            "layouttype": 2,
+            "name": "kony.ui.FlexContainer",
+            "orientation": 6,
+            "parent": "frmDetails",
+            "percent": true,
+            "pf": "frmDetails",
+            "snapgridsize": 10,
+            "snaptogrid": true,
+            "undoPropsStorage": {},
+            "wType": "FlexContainer",
+            "widgetalignment": 1,
+            "zindex": 3
+        }
+    }
+}

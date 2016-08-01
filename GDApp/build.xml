@@ -35,7 +35,7 @@
 		</else>
 	</if>
 	
-	
+		<property name="globalprop.file" location="../HeadlessBuild-Global.properties"/>
 	<echo message="Global properties file LOCATION: ${global.file}"/>
 	<echo message="Build properties file LOCATION: ${input.file}"/>
 	
@@ -51,7 +51,7 @@
 		<then>
 			<fail message="Either ${input.file}
 				or
-				${global.file}
+				${globalprop.file}
 				doesn't exist"/>
 		</then>
 	</if>
