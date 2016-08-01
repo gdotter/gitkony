@@ -26,7 +26,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0af49e0546e1a46"
+        "FlexContainer0af49e0546e1a46",
+        "Label0dfa7985b127748"
     ],
     "containerweight": 100,
     "currentLocale": null,
