@@ -15,7 +15,7 @@
     "appidkey": "GSGDGitTest",
     "apppackagekey": "",
     "mwhttpsportkey": "",
-    "startupformkey": "Form0c6651f566ad342",
+    "startupformkey": "frmHome",
     "referenceWidth": "375",
     "vendornamekey": "KonyLabs",
     "konyVizVersion": "7.1.0",
@@ -23,7 +23,7 @@
     "APPLICATION_THEME": "default",
     "project_version": "sprint24",
     "nativeContainerProperties": {
-        "isModified": true,
+        "isModified": false,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false

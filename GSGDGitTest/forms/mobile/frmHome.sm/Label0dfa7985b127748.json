@@ -57,8 +57,8 @@
     "isvisible": true,
     "kuid": "f8a3b71cdddd47cdabc719f15052463d",
     "name": "kony.ui.Label",
-    "parent": "Form0c6651f566ad342",
-    "pf": "Form0c6651f566ad342",
+    "parent": "frmHome",
+    "pf": "frmHome",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

@@ -43,6 +43,6 @@
     "kuid": "d773323736a54146b3ef8c61451a8203",
     "name": "kony.ui.Button",
     "parent": "FlexContainer0af49e0546e1a46",
-    "pf": "Form0c6651f566ad342",
+    "pf": "frmHome",
     "wType": "Button"
 }
